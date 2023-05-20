@@ -5,6 +5,9 @@
 - 1st year: 15 days university & 15 days company
 - 2nd year: 1 week university & 3 weeks company
   
+Here is my CV in french and you can click this google drive link to get my CVs both in english and french
+
+<img src="src/media/CV_Alternance.jpg" width="40%" height="40%" >
 
 
 # Want to know me better? 🤗📱
