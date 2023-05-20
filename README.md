@@ -23,6 +23,9 @@ Today, I am looking for an opportunity to do an apparenticeship in software engi
 ## My github profiles
 I have a 2nd github profile ([github.com/l3miage-wicaksop](https://github.com/l3miage-wicaksop)) I made during my study in university. This account was utilized to collaborate with fellow students, submit assignments, and work on group projects within the university's coding ecosystem. Having these two separate accounts allows me to effectively manage and differentiate between my personal and academic coding activities, ensuring clarity and organization in both realms.One day, I will merge both of my accounts into one, but for the moment I want to keep it this way.
 
+## My personal life
 Having been born with a moderate hearing impairment and adopting a hearing aid at the age of 20, I have faced the challenges of adjusting to this new reality, but today I am fully prepared to embrace my journey and leverage my experiences to support and empower others.
+
+Despite my hearing disability, I have been able to excel in my domain and cultivate valuable leadership experiences. While my hearing impairment presents unique challenges, it has never hindered my determination or passion for success. I have developed various strategies and adapted communication methods to ensure effective collaboration with colleagues and team members. Through perseverance and a proactive approach, I have not only overcome barriers but also thrived in my field. 
 
 
