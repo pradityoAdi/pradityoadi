@@ -21,13 +21,12 @@ Here is my CV in french and you can click this [google drive](https://drive.goog
 ## About me 🙋‍♂️
 Aspiring to be a tech generalist, I was a software quality assurance in tiket.com, an online travel agency in Indonesia. I worked under Payment vertical, and then moved to the Platform vertical within Internal Tools team. We are developing internal tools developed by finance team that includes all business units of tiket.com including bus, things to do, ferry, accomodation and flight.
 
-Today, I am looking for an opportunity to do an apparenticeship in software engineering as part of my master degree in Université Grenoble Alpes. My strength point is in backend development but I'm not limiting myself to other opportunities. I am also keen to do my apprenticeship as fullstack engineer, data engineer or BI analyst.
+Today, I am looking for an opportunity to do an apprenticeship in software engineering as part of my master degree in Université Grenoble Alpes. My strength point is in backend development but I'm not limiting myself to other opportunities. I am also keen to do my apprenticeship as fullstack engineer or BI analyst.
 
 ## My github profiles 🛜
 I have a 2nd github profile ([github.com/l3miage-wicaksop](https://github.com/l3miage-wicaksop)) I made during my study in university. This account was utilized to collaborate with fellow students, submit assignments, and work on group projects within the university's coding ecosystem. Having these two separate accounts allows me to effectively manage and differentiate between my personal and academic coding activities, ensuring clarity and organization in both realms.One day, I will merge both of my accounts into one, but for the moment I want to keep it this way.
 
 ## My tech stack 🧑‍💻
-I learned about bash, linux, nginx, caddy, VM, GCP from my early days playing video games with my friends. Back then, we rented a vps and a domain, then creating a game server to play together. When I was in high school, I participated in some competitive programming using Pascal.
 
 During university, we learned OOP with Java, network and system courses on C, data analysis and statistics with Python. We also learned database using SQL (Oracle & Postgresql), and NoSQL (MongoDB). In the HMI (human-machine interaction) course, we mainly use Angular on typescript.
 
